@@ -1,0 +1,12 @@
+{
+  "name": "@web-monitoring/vue3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Li Zhang <2475934003@qq.com>",
+  "license": "MIT"
+}

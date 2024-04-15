@@ -1,0 +1,20 @@
+{
+  "name": "@web-monitoring/monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example:vue3": "pnpm run -C examples/vue3 start",
+    "example:vue2": "pnpm run -C examples/vue2 start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Li Zhang <2475934003@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "16.x",
+    "rollup": "3.26.0",
+    "ts-node": "^10.9.2",
+    "typescript": "5.0.2"
+  }
+}
